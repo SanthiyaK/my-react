@@ -2,7 +2,7 @@ import firebase from "firebase/compat/app"
 import 'firebase/compat/auth'
 import 'firebase/compat/firestore'
 const firebaseConfig = {
-    apiKey: "AIzaSyDYtAalUnoIlFagZPI-siyndH0Hht5u9WE",
+    apiKey: "XXXXXX",
     authDomain: "react-ecb20.firebaseapp.com",
     projectId: "react-ecb20",
     storageBucket: "react-ecb20.appspot.com",
